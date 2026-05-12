@@ -58,7 +58,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 ### PDF RAG Assistant
 
-![RAG Output](rag_output.png)
+![RAG Output](rag_output.jpeg)
 
 ### Movie Information Extractor
 
